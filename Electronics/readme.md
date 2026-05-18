@@ -30,4 +30,4 @@ The fuse and relay box mount is made to fit the rear passenger side trunk well w
 | [Prowire USA](prowireusa.com) | for anything motorsports or tooling that KSV Looms didn't carry (their shipping takes longer and their website is kind of gross to navigate). |
 | [McMaster-Carr](McMaster.com) | for hardware has been good for US buyers. Their website rules and has fast shipping. |
 | [WaytekWire.com](WaytekWire.com) | is where I found the fuse and relay box (linked below). Great resource for everything I couldn't find elsewhere (630 metri-pak connectors, wire seals) |
-[Mouser.com](mouser.com) for everything else that's odd--for example, 20-22 Metri-Pak 630 female connectors that work with wire seals. 
+| [Mouser.com](mouser.com) |  for everything else that's odd--for example, 20-22 Metri-Pak 630 female connectors that work with wire seals. |
